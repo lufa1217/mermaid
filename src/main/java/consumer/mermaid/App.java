@@ -14,6 +14,10 @@ public class App
 
         t.show();
 
+        Test tt = new Test();
+
+        tt.show();
+
     }
 
 
