@@ -13,7 +13,7 @@ public class App
         Test t = new Test();
 
         t.setValue(10000);
-        t.setName("takahashi");
+        t.setName("tanaka");
 
         t.show();
 
