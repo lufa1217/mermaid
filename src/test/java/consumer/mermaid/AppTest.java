@@ -39,7 +39,7 @@ public class AppTest extends TestCase{
 //
 //    	App.main(s);
 
-    	System.out.println("test");
+//    	System.out.println("test");
 
     	boolean result = test.test(0);
 
