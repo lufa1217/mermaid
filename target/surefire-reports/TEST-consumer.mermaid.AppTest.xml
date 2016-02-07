@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="consumer.mermaid.AppTest" time="0" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="consumer.mermaid.AppTest" time="0.004" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\application\pleiades-e4.4-java-jre_20150310\pleiades\java\8\jre\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\application\pleiades-e4.4-java-jre_20150310\pleiades\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7077694317960703176.tmp"/>
+    <property name="classworlds.conf" value="C:\application\pleiades-e4.4-java-jre_20150310\pleiades\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf509965452063930916.tmp"/>
     <property name="sun.jnu.encoding" value="MS932"/>
     <property name="java.library.path" value="C:\application\pleiades-e4.4-java-jre_20150310\pleiades\java\8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/application/pleiades-e4.4-java-jre_20150310/pleiades/eclipse/jre/bin/../jre/bin/server;C:/application/pleiades-e4.4-java-jre_20150310/pleiades/eclipse/jre/bin/../jre/bin;C:/application/pleiades-e4.4-java-jre_20150310/pleiades/eclipse/jre/bin/../jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.6.0_30\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Java\jdk1.6.0_30\bin;C:\application\pleiades-e4.4-java-jre_20150310\pleiades\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="consumer.mermaid.AppTest" name="testApp" time="0"/>
+  <testcase classname="consumer.mermaid.AppTest" name="testApp" time="0.004"/>
 </testsuite>
