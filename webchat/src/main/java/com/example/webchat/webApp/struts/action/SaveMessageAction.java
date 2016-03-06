@@ -1,4 +1,4 @@
-package struts.action;
+package webApp.struts.action;
 
 import java.util.Date;
 
