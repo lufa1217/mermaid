@@ -1,6 +1,6 @@
-package webchat.db.dao;
+package com.example.webchat.webchat.db.dao;
 
-import webchat.db.bean.MessageBean;
+import com.example.webchat.webchat.db.bean.MessageBean;
 
 public interface MessageDao {
     // チャットでの発言を保存します.

@@ -1,4 +1,4 @@
-package webchat.db.bean;
+package com.example.webchat.webchat.db.bean;
 
 import java.util.Date;
 

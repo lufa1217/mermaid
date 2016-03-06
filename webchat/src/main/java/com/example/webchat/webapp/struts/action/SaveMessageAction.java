@@ -1,21 +1,22 @@
-package webapp.struts.action;
+package com.example.webchat.webapp.struts.action;
 
 import java.util.Date;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.apache.struts.action.Action;
 import org.apache.struts.action.ActionForm;
 import org.apache.struts.action.ActionForward;
 import org.apache.struts.action.ActionMapping;
 import org.apache.struts.action.DynaActionForm;
 
-import webchat.db.bean.MessageBean;
-import webchat.db.dao.MessageDao;
-import webchat.db.dao.impl.MessageDaoOnMemoryImpl;
+import com.example.webchat.webchat.db.bean.MessageBean;
+import com.example.webchat.webchat.db.dao.MessageDao;
+import com.example.webchat.webchat.db.dao.impl.MessageDaoOnMemoryImpl;
 
 
-public class SaveMessageAction {
+public class SaveMessageAction extends Action {
     public ActionForward execute(
             ActionMapping mapping, ActionForm actionForm,
             HttpServletRequest request, HttpServletResponse response)
