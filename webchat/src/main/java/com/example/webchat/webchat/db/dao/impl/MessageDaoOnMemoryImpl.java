@@ -1,8 +1,11 @@
-package webchat.db.bean;
+package webchat.db.dao.impl;
 
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
+
+import webchat.db.bean.MessageBean;
+import webchat.db.dao.MessageDao;
 
 
 public class MessageDaoOnMemoryImpl implements MessageDao {
