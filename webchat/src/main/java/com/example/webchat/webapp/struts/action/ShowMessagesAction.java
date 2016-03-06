@@ -1,4 +1,4 @@
-package webApp.struts.action;
+package webapp.struts.action;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
